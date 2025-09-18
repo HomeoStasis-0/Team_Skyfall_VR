@@ -1,0 +1,17 @@
+# Ignore temporary files and folders
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+# Ignore user-specific files
+*.log
+*.tmp
+*.userprefs
+# Ignore build artifacts
+*.exe
+*.dll
+*.obj
+*.pdb
+# Ignore other unnecessary files
+DS_Store
+Thumbs.db
