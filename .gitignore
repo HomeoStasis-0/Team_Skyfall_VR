@@ -15,3 +15,5 @@ Saved/
 # Ignore other unnecessary files
 DS_Store
 Thumbs.db
+# Ignore large Stone_Rubble textures
+Content/Fab/Stone_Rubble/source/Textures/source_texture_*.uasset
